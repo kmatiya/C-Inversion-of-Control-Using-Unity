@@ -1,0 +1,14 @@
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\bin\Debug\Inversion of Control (IOC) Unity.exe.config
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\bin\Debug\Inversion of Control (IOC) Unity.exe
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\bin\Debug\Inversion of Control (IOC) Unity.pdb
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\bin\Debug\Unity.Abstractions.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\bin\Debug\Unity.Container.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\bin\Debug\Unity.Abstractions.pdb
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\bin\Debug\Unity.Container.pdb
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\obj\Debug\Inversion of Control (IOC) Unity.csprojResolveAssemblyReference.cache
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\obj\Debug\Inversion of Control (IOC) Unity.exe
+c:\users\kmatiya\documents\visual studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\obj\Debug\Inversion of Control (IOC) Unity.pdb
+C:\Users\kmatiya\Documents\Visual Studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kmatiya\Documents\Visual Studio 2017\Projects\Inversion of Control (IOC) Unity\Inversion of Control (IOC) Unity\bin\Debug\System.Threading.Tasks.Extensions.xml
